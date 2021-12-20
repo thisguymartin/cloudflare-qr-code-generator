@@ -1,0 +1,8 @@
+name = "serveless-api"
+type = "webpack"
+
+account_id = "a0da5c6735daa3765feabaff0e7db03c"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-12-20"
